@@ -3,7 +3,7 @@
 *  The model detects whether a given news is real or fake.
 
 ## Algorithm
-*  In this model we used two different algorithms.
+*  In this model we used two different algorithms :
 1) Naive Bayes
 2) PassiveAggressiveClassifier
 
