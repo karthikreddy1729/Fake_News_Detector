@@ -1,11 +1,11 @@
 # Fake_News_Detector
 
-*  The model detects whether a given news is real or fake.
+*  The model detects whether the given news is real or fake.
 
 ## Algorithm
 *  In this model we used two different algorithms :
-1) Naive Bayes
-2) PassiveAggressiveClassifier
+1) Naive Bayes - 80.26%
+2) PassiveAggressiveClassifier - 88.32%
 
 ## Downloading the dataset
 you can download the dataset from the link given (https://drive.google.com/file/d/1er9NJTLUA3qnRuyhfzuN0XUsoIC4a-_q/view) ::
