@@ -1,6 +1,6 @@
 # Fake_News_Detector
 
-*  The model detects whether the given news is real or fake.
+*  The model detects whether the given news is REAL or FAKE.
 
 ## Algorithm
 *  In this model we used two different algorithms :
