@@ -54,7 +54,8 @@ y_pred = classifier.predict(X_test)
 # Calculating accuracy 
 from sklearn.metrics import confusion_matrix,accuracy_score
 score=accuracy_score(y_test,y_pred)
-print('accuracy :',score)
+print('using Naive Bayes :')
+print('accuracy :',score*100,'%')
 
 # Making the Confusion Matrix
 cm = confusion_matrix(y_test, y_pred)
@@ -73,7 +74,8 @@ y_pred=pac.predict(X_test)
 # Calculating accuracy 
 from sklearn.metrics import confusion_matrix,accuracy_score
 score=accuracy_score(y_test,y_pred)
-print('accuracy :',score)
+print('using PassiveAggressiveClassifier :')
+print('accuracy :',score*100,'%')
 
 # Making the Confusion Matrix
 cm = confusion_matrix(y_test, y_pred)
