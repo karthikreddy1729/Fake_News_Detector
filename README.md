@@ -7,7 +7,7 @@
 1) Naive Bayes - 80.26%
 2) PassiveAggressiveClassifier - 88.32%
 
-## Downloading the dataset
+## Dataset
 you can download the dataset from the link given (https://drive.google.com/file/d/1er9NJTLUA3qnRuyhfzuN0XUsoIC4a-_q/view) ::
 * =>Download the dataset and put it in a folder named dataset
 
