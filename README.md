@@ -11,7 +11,7 @@
 you can download the dataset from the link given (https://drive.google.com/file/d/1er9NJTLUA3qnRuyhfzuN0XUsoIC4a-_q/view) ::
 * =>Download the dataset and put it in a folder named dataset
 
-The dataset has a shape of 7795×4. The first column identifies the news, the second and third are the title and text, and the fourth column has labels denoting whether the news is REAL or FAKE
+The dataset has a shape of 7795×4. The first column identifies the news, the second and third are the title and text, and the fourth column has labels denoting whether the news is REAL or FAKE.
 
 ## To run the model
 ```
